@@ -1,0 +1,62 @@
+[
+  {
+    "checkbox": "",
+    "vendor": "8120",
+    "neType": "NEC",
+    "city": "Sumatra",
+    "regional": "Regional 1",
+    "receivedTime": "2024/03/04 09:30",
+    "alarmName": "CSBAD",
+    "severity": "Critical",
+    "clearTime": "2024/03/04",
+    "duration": "30 minutes",
+    "startTime": "2024/03/04 09:30",
+    "districtOperation": "A",
+    "status": "Disappear"
+  },
+  {
+    "checkbox": "",
+    "vendor": "8120",
+    "neType": "ALU",
+    "city": "Sumatra",
+    "regional": "Regional 1",
+    "receivedTime": "2024/03/04 09:30",
+    "alarmName": "CSBAD",
+    "severity": "Major",
+    "clearTime": "2024/03/04",
+    "duration": "30 minutes",
+    "startTime": "2024/03/04 09:30",
+    "districtOperation": "A",
+    "status": "Appear"
+  },
+  {
+    "checkbox": "",
+    "vendor": "8120",
+    "neType": "NEC",
+    "city": "Sumatra",
+    "regional": "Regional 1",
+    "receivedTime": "2024/03/04 09:30",
+    "alarmName": "CSBAD",
+    "severity": "Minor",
+    "clearTime": "2024/03/04",
+    "duration": "30 minutes",
+    "startTime": "2024/03/04 09:30",
+    "districtOperation": "A",
+    "status": "Disappear"
+  },
+  {
+    "checkbox": "",
+    "vendor": "8120",
+    "neType": "ALU",
+    "city": "Sumatra",
+    "regional": "Regional 1",
+    "receivedTime": "2024/03/04 09:30",
+    "alarmName": "CSBAD",
+    "severity": "Low",
+    "clearTime": "2024/03/04",
+    "duration": "30 minutes",
+    "startTime": "2024/03/04 09:30",
+    "districtOperation": "A",
+    "status": "Appear"
+  }
+]
