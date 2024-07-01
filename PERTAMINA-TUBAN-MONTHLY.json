@@ -1,0 +1,20 @@
+[
+  {
+    "period": "M1",
+    "ongoing": 20,
+    "completed": 30,
+    "total": 40
+  },
+  {
+    "period": "M2",
+    "ongoing": 50,
+    "completed": 60,
+    "total": 70
+  },
+  {
+    "period": "M3",
+    "ongoing": 80,
+    "completed": 90,
+    "total": 100
+  }
+]
