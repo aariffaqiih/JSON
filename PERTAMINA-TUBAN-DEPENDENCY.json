@@ -1,0 +1,92 @@
+[
+  {
+    "no": 1,
+    "ip_code": "IP-3287 IP-2368",
+    "ip_description": "Railroad Construction",
+    "contractor": "Contractor A",
+    "critical": "Yes",
+    "final_design": "17 Mar 2023",
+    "material_on_site": "18 April 2023",
+    "ready_for_commission": "19 Mei 2023"
+  },
+  {
+    "no": 2,
+    "ip_code": "IP-7829 IP-8729",
+    "ip_description": "Railroad Construction",
+    "contractor": "Contractor A",
+    "critical": "YES",
+    "final_design": "17 March 2023",
+    "material_on_site": "18 April 2023",
+    "ready_for_commission": "19 Mei 2023"
+  },
+  {
+    "no": 3,
+    "ip_code": "IP-8209 IP-8733",
+    "ip_description": "Railroad Construction",
+    "contractor": "Contractor A",
+    "critical": "NO",
+    "final_design": "17 March 2023",
+    "material_on_site": "18 April 2023",
+    "ready_for_commission": "19 Mei 2023"
+  },
+  {
+    "no": 4,
+    "ip_code": "IP-3287 IP-8734",
+    "ip_description": "Corner Edge Replacement",
+    "contractor": "Contractor A",
+    "critical": "YES",
+    "final_design": "17 March 2023",
+    "material_on_site": "18 April 2023",
+    "ready_for_commission": "19 Mei 2023"
+  },
+  {
+    "no": 5,
+    "ip_code": "IP-2769 IP-8732",
+    "ip_description": "Corner Edge Replacement",
+    "contractor": "Contractor B",
+    "critical": "YES",
+    "final_design": "17 March 2023",
+    "material_on_site": "18 April 2023",
+    "ready_for_commission": "19 Mei 2023"
+  },
+  {
+    "no": 6,
+    "ip_code": "IP-8209 IP-8739",
+    "ip_description": "Corner Edge Replacement",
+    "contractor": "Contractor A",
+    "critical": "NO",
+    "final_design": "17 March 2023",
+    "material_on_site": "18 April 2023",
+    "ready_for_commission": "19 Mei 2023"
+  },
+  {
+    "no": 7,
+    "ip_code": "IP-7829 IP-8735",
+    "ip_description": "IP Development 1st Phase",
+    "contractor": "Contractor A",
+    "critical": "YES",
+    "final_design": "17 March 2023",
+    "material_on_site": "18 April 2023",
+    "ready_for_commission": "19 Mei 2023"
+  },
+  {
+    "no": 8,
+    "ip_code": "IP-7829 IP-9893",
+    "ip_description": "IP Development 1st Phase",
+    "contractor": "Contractor B",
+    "critical": "YES",
+    "final_design": "17 March 2023",
+    "material_on_site": "18 April 2023",
+    "ready_for_commission": "19 Mei 2023"
+  },
+  {
+    "no": 9,
+    "ip_code": "IP-2769 IP-8768",
+    "ip_description": "IP Development 1st Phase",
+    "contractor": "Contractor B",
+    "critical": "NO",
+    "final_design": "17 March 2023",
+    "material_on_site": "18 April 2023",
+    "ready_for_commission": "19 Mei 2023"
+  }
+]
