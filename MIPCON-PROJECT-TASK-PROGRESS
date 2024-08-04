@@ -1,0 +1,22 @@
+[
+  {
+    "period": "MPI-01",
+    "ongoing": 75,
+    "completed": 50
+  },
+  {
+    "period": "MPI-02",
+    "ongoing": 50,
+    "completed": 80
+  },
+  {
+    "period": "MPI-03",
+    "ongoing": 80,
+    "total": 40
+  },
+  {
+    "period": "MPI-04",
+    "ongoing": 60,
+    "total": 75
+  }
+]
